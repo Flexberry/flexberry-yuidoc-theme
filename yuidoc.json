@@ -1,6 +1,6 @@
 {
   "name": "Flexberry Documentation",
-  "version": "master",
+  "version": "develop",
   "options": {
     "linkNatives": true,
     "paths": [
