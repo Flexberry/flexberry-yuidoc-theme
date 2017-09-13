@@ -1,14 +1,12 @@
 {
   "name": "Flexberry Documentation",
-  "version": "develop",
+  "version": "master",
   "options": {
     "linkNatives": true,
     "paths": [
-      "./ember-flexberry-data/addon",
-      "./ember-flexberry-gis/addon",
-      "./ember-flexberry/addon"      
+      "./addon"      
     ],
-    "outdir": ".",
+    "outdir": "./autodoc-result",
     "themedir": "./theme",
     "helpers": ["./theme/helpers/helpers.js"],
     "external": {
